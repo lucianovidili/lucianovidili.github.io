@@ -1,0 +1,67 @@
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+  
+p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+html {
+    background-color:#00539F;
+    /*background-color:#E0DD04;*/
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    /*margin: 0 0;*/
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+/*SELECCION POR ELEMENTO/S*/
+/*p {
+  color: blue;
+}
+
+/*SELECCION POR id DEL ELEMENTO
+#myid {
+    color: yellow
+}
+
+/*SELECCION POR CLASE (SE DEFINE A QUE CLASE PERTENECE EN EL HTML
+.myclass {
+    color: yellow
+}
+
+p {
+    color: red;
+    width: 2000px;
+    border: 1px solid black;
+}
+
+/*SELECCION POR PSEUDO-CLASE. EL/LOS ELEMENTOS a QUE TENGAN EL MOUSE ARRIBA (hover)
+a:hover, li:hover {
+    color: red;
+}*/
